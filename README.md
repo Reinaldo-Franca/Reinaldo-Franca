@@ -27,12 +27,46 @@ Me chamo Reinaldo França, tenho 22 anos. Atualmente, estou cursando Sistema de 
 />
 <img 
     align="left" 
+    alt="sql"
+    title="sql" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+    />
+<img 
+    align="left" 
     alt="shell"
     title="shell" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
+<img 
+    align="left" 
+    alt="git"
+    title="git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img 
+    align="left" 
+    alt="anaconda"
+    title="anaconda" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"
+/>
+<img 
+    align="left" 
+    alt="vscode"
+    title="vscode" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+
+
 
 
 ---
@@ -44,7 +78,7 @@ Me chamo Reinaldo França, tenho 22 anos. Atualmente, estou cursando Sistema de 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="100" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Reinaldo-Franca&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
   />
@@ -52,7 +86,7 @@ Me chamo Reinaldo França, tenho 22 anos. Atualmente, estou cursando Sistema de 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reinaldo-Franca&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 
