@@ -65,12 +65,7 @@ Me chamo Reinaldo França, tenho 22 anos. Atualmente, estou cursando Sistema de 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
-
-
-
-
----
-
+...
 
 ###  Estatísticas
 
