@@ -67,7 +67,7 @@ Me chamo Reinaldo França, tenho 22 anos. Atualmente, estou cursando Sistema de 
 />
 ...
 
-###  Estatísticas
+## Estatísticas
 
 <p>
   <img 
@@ -75,14 +75,14 @@ Me chamo Reinaldo França, tenho 22 anos. Atualmente, estou cursando Sistema de 
     alt="GitHub Stats" 
     height="100" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Reinaldo-Franca&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Reinaldo-Franca&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reinaldo-Franca&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reinaldo-Franca&theme=dracula&layout=donut-vertical&custom_title=Tecnologias&langs_count=7"
   />
 
 </p>
