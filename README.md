@@ -1,9 +1,6 @@
 ## Reinaldo França 
 
 **`Cybersecurity | Desenvolvedor`**
-
-Me chamo Reinaldo França, tenho 22 anos. Atualmente, estou cursando Sistema de Informação. Sou apaixonado por tecnologia mais especifico a area de segurança de informação como penteste e bug bounty alem de desenvolvimento de software nas linguagens python e java, como hobby estudo e produzo artigos na area de I.A e datascience.
-
 ---
 
 ###  Linguagens e Tecnologias
